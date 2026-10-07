@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "novus-ai": {
+      "command": "node",
+      "args": [
+        "index.mjs",
+        "mcp"
+      ],
+      "startup_timeout_sec": 180,
+      "tool_timeout_sec": 90
+    }
+  }
+}
